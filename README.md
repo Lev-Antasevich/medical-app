@@ -11,7 +11,7 @@
 - Install dependencies => `yarn install`
 - Start the development server => `yarn dev`
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
+Open [http://localhost:3000](http://localhost:3000) \ [http://localhost:3001](http://localhost:3001) in your browser to see the app.
 
 ## Has the following setup:
 - Redux, redux thunk, redux logger (development), redux dev tool (development)
